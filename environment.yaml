@@ -1,0 +1,20 @@
+# DB connection info
+
+local:
+    dbName : local-db
+    dbHost : localhost 
+    dbuser : dbuser
+    dbpwd  : localdb
+
+production:
+    dbName : prod-db
+    dbHost : prod.inspire.com
+    dbuser : proddb
+    dbpwd  : testdb
+
+staging:
+    dbName : staging-db
+    dbHost : staging.inspire.com
+    dbuser : stage
+    dbpwd  : pwd
+

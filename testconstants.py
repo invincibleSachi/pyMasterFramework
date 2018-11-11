@@ -1,0 +1,4 @@
+S3_TEST_DATA=""
+TEST_INPUT_DATA="./TestData"
+TEST_CASES_PATH="./TestCases"
+TEST_REPORT="./TestReports"

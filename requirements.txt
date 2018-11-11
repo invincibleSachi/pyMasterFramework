@@ -1,0 +1,13 @@
+sklearn>0.19.1
+hypothesis
+jsondiff
+ConfigParser
+pytest-cov
+pytest-html
+pytest-assume
+raven
+boto3
+paramiko
+awscli
+dlib-19.4
+psycopg2
